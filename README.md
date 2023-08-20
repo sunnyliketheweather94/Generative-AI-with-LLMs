@@ -1,2 +1,2 @@
-# generative-AI-with-LLMs
- 
+# Generative AI with Large Language Models
+This repository will serve as a storage for the Jupyter notebooks I worked on, in the Coursera-hosted course titled "Generative AI with Large Language Models" by DeepLearning.AI. I completed this course in August 2023.
